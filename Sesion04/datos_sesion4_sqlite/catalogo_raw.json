@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "origen": "API simulada de catálogo",
+    "version": 1,
+    "moneda": "EUR"
+  },
+  "data": {
+    "productos": [
+      {
+        "producto_id": "PR01",
+        "nombre": "Ratón",
+        "precio": 19.9,
+        "atributos": {
+          "categoria": "Accesorios",
+          "activo": true
+        }
+      },
+      {
+        "producto_id": "PR02",
+        "nombre": "Teclado",
+        "precio": 35.5,
+        "atributos": {
+          "categoria": "Accesorios",
+          "activo": true
+        }
+      },
+      {
+        "producto_id": "PR03",
+        "nombre": "Cuaderno",
+        "precio": 12.0,
+        "atributos": {
+          "categoria": "Papelería",
+          "activo": true
+        }
+      },
+      {
+        "producto_id": "PR04",
+        "nombre": "Portátil",
+        "precio": 1299.0,
+        "atributos": {
+          "categoria": "Informática",
+          "activo": true
+        }
+      },
+      {
+        "producto_id": "PR05",
+        "nombre": "Bolígrafo",
+        "precio": 7.5,
+        "atributos": {
+          "categoria": "Papelería",
+          "activo": false
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+﻿pedido_id;fecha;cliente_id;cliente_nombre;email;ciudad;nombre_ausente;email_ausente;ciudad_ausente;producto_id;producto_nombre;categoria;cantidad;precio_final_centimos;importe_centimos;precio_imputado;difiere_del_catalogo;fila_csv;precio_unitario_eur;importe_eur
+P001;2026-10-01;C001;Ana López;ana@ejemplo.es;Madrid;False;False;False;PR01;Ratón;Accesorios;2;1990;3980;False;False;2;19.9;39.8
+P002;2026-10-02;C002;Luis Pérez;;Barcelona;False;True;False;PR02;Teclado;Accesorios;1;3550;3550;False;False;3;35.5;35.5
+P004;2026-10-04;C004;Diego Sol;diego@ejemplo.es;Ciudad no informada;False;False;True;PR01;Ratón;Accesorios;1;1990;1990;True;False;5;19.9;19.9
+P005;2026-10-05;C005;Elena Gil;elena@ejemplo.es;Valencia;False;False;False;PR02;Teclado;Accesorios;3;3550;10650;False;False;6;35.5;106.5
+P006;2026-10-06;C006;Pablo Mar;pablo@ejemplo.es;Málaga;False;False;False;PR04;Portátil;Informática;1;129900;129900;False;False;7;1299.0;1299.0
+P012;2026-10-12;C007;Nombre no informado;;Bilbao;True;True;False;PR03;Cuaderno;Papelería;2;1200;2400;False;False;13;12.0;24.0
+P013;2026-10-13;C005;Elena Gil;elena@ejemplo.es;Valencia;False;False;False;PR02;Teclado;Accesorios;2;3550;7100;False;False;15;35.5;71.0

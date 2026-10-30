@@ -1,0 +1,13 @@
+{
+  "version_datos": "conecta_sqlite_v1",
+  "clientes_sqlite_raw": 9,
+  "clientes_limpios": 7,
+  "clientes_duplicados_identicos": 1,
+  "versiones_cliente_descartadas": 1,
+  "pedidos_csv_raw": 16,
+  "pedidos_duplicados": 1,
+  "pedidos_revision": 8,
+  "pedidos_integrados": 7,
+  "precios_imputados": 1,
+  "importe_valido_centimos": 159570
+}

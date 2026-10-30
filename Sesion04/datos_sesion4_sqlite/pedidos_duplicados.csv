@@ -1,0 +1,2 @@
+﻿pedido_id;cliente_id;producto_id;cantidad;precio_unitario;fecha;fila_csv
+P002;C002;PR02;1;35.50;2026-10-02;14
